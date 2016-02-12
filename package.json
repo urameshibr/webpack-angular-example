@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.0.14",
+    "babel-loader": "^6.0.0",
+    "bower": "^1.6.5",
+    "css-loader": "~0",
+    "exports-loader": "~0",
+    "extract-text-webpack-plugin": "~1",
+    "file-loader": "~0",
+    "gulp": "~3",
+    "gulp-htmlmin": "^1.2.0",
+    "gulp-shell": "^0.5.1",
+    "html-loader": "^0.4.0",
+    "html-webpack-plugin": "^2.8.1",
+    "imports-loader": "^0.6.5",
+    "json-loader": "^0.5.3",
+    "less": "^2.6.0",
+    "less-loader": "~2",
+    "ng-annotate-loader": "~0",
+    "ng-cache-loader": "~0",
+    "ngtemplate-loader": "~1",
+    "rimraf": "^2.4.3",
+    "style-loader": "~0",
+    "url-loader": "~0",
+    "webpack": "~1.12"
+  },
+  "dependencies": {
+    "angular": "^1.4",
+    "angular-ui-bootstrap": "^1.1.0",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^3.3"
+  }
+}
